@@ -1,7 +1,7 @@
 public class HelloWorld2 {
 
 	public static void main (String[] args) {
-		System.out.println ("Hello Main Branch");
+		System.out.println ("Hello test branch");
 
 	}
     }
